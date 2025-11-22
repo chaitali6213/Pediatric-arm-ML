@@ -39,8 +39,14 @@ All key documents are stored in the `docs/` directory for easy access.
 
 ## 🔍 Methodology Summary
 
+![Pipeline Diagram](docs/pipeline_diagram.png)
+
 **Dataset source:**  
 De-identified pediatric ARM studies curated at *SSM Health Cardinal Glennon Children’s Hospital*.
+
+**Missing Value Handling:**  
+- Mean imputation for continuous variables  
+- Label encoding for categorical variables  
 
 **Predictors included:**
 - Resting pressure  
@@ -63,6 +69,7 @@ De-identified pediatric ARM studies curated at *SSM Health Cardinal Glennon Chil
 - F1 Score  
 - Cohen’s Kappa  
 - ROC–AUC  
+
 
 ---
 

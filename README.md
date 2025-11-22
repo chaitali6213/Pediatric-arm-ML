@@ -39,7 +39,7 @@ All key documents are stored in the `docs/` directory for easy access.
 
 ## 🔍 Methodology Summary
 
-![Pipeline Diagram](/pipeline_diagram.png)
+![Pipeline Diagram](pipeline_diagram.png)
 
 **Dataset source:**  
 De-identified pediatric ARM studies curated at *SSM Health Cardinal Glennon Children’s Hospital*.

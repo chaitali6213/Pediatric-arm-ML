@@ -81,5 +81,4 @@ De-identified pediatric ARM studies curated at *SSM Health Cardinal Glennon Chil
 
 ---
 
-## 📂 Repository Structure
 
